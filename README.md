@@ -1,14 +1,14 @@
 # Indie Developer License 1.0
 
 Features:
-- Free use for individual developers or groups up to 12
+- Free use for individuals or groups up to 12
 - Commercial restriction for groups over 12
-- Credit required
-- No endorsement
+- Credit required - without indication of endorsement
+- License must be included with software
 - Warranty disclaimer
-- Terms acceptance
+- Accept terms by use
 
-Read the full license in the [LICENSE](LICENSE) file if you are considering using it.
+Read the full license in the [LICENSE](IDL_1.0) file if you consider using it.
 
-This license serves primarily as a declaration of values rather than a legal consideration.
-It is meant to be a legally binding document, but it is not a substitute for legal advice.
+This license is meant to be a legally binding document, but it is not a
+substitute for legal advice.
